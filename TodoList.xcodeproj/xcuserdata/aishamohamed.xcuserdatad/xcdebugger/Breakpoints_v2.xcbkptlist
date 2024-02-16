@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C25A53EA-88E1-4A6A-8310-6EB35F4657AC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52044E99-C6FF-4DD0-B3C3-00257BE2AA6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoList/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "todos"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "52044E99-C6FF-4DD0-B3C3-00257BE2AA6E - a1cd11894f0b86e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList.ContentView.init(timesBeingTapped: Swift.Int) -&gt; TodoList.ContentView"
+                  moduleName = "TodoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aishamohamed/Projects/week13/TodoList/TodoList/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "52044E99-C6FF-4DD0-B3C3-00257BE2AA6E - a1cd11894f0b86e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList.ContentView.init(timesBeingTapped: Swift.Int) -&gt; TodoList.ContentView"
+                  moduleName = "TodoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aishamohamed/Projects/week13/TodoList/TodoList/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
